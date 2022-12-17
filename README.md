@@ -8,3 +8,5 @@ The student can register and login into the system to view the list of companies
 
 Admin module:
 Super Admin:The Super Admin can login into the system and can register the company by adding the company details. He can update or remove the company if required. Super Admin can view feedbacks and rating provided to the company by students. He is also given featureto other "Admin or Company credentials" who will be able to add company details as well.  
+
+The project is developed using - React JS, Express JS, Node JS and MySql database
